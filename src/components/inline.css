@@ -1,0 +1,11 @@
+.editable {
+    font-family: sans-serif;
+    margin-left: 10%;
+    width: 75%;
+    min-height: 100px;
+    resize: none;
+  }
+  
+textarea.editable {
+    font-family: monospace, monospace;
+}
