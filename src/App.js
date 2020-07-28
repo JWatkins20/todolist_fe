@@ -5,7 +5,7 @@ import { BrowserRouter as Router, Route, Switch, Redirect } from "react-router-d
 import DashboardScreen  from './DashboardScreen'
 import Cookies from 'js-cookie';
 
-export const base_url = 'http://localhost:8000/'
+export const base_url = 'http://todolist'
 
 export class Item{
   constructor(description, id){
